@@ -7,7 +7,7 @@
 
 - 简单工厂 [simple_factory](https://github.com/cdoco/php-patterns/blob/master/simple_factory.php)
 - 抽象工厂 [abstract_factory](https://github.com/cdoco/php-patterns/blob/master/abstract_factory.php)
-- 建造者
+- 建造者   [builder](https://github.com/cdoco/php-patterns/blob/master/builder.php)
 - 工厂方法
 - 原型
 - 单例
