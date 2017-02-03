@@ -58,15 +58,15 @@ class ConcreteBuilder implements PersonBuilder {
     }
 
     function buildHead() {
-        $this->person->setHead('建造头……');
+        $this->person->setHead('建造头 ~');
     }
 
     function buildBody() {
-        $this->person->setBody('建造身体……');
+        $this->person->setBody('建造身体 ~');
     }
 
     function buildFoot() {
-        $this->person->setFoot('建造脚……');
+        $this->person->setFoot('建造脚 ~');
     }
 
     function getResult() {
